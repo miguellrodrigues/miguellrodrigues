@@ -5,9 +5,7 @@
 <p>
 Estudante de Engenharia Mecatrônica no Cefet-MG Campus V
 
-Programador desde 2015
-
-Foco em Backend
+'O próximo nível nunca é o último'
 </p>
 
 ### Tecnologias
