@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguellrodrigues" alt="miguellrodrigues" /></a> </p>
 
-- 🔭 I’m currently working on [Image processing for the Prostate Brachytherapy Automation process](https://github.com/miguellrodrigues/image_processing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguel-rodrigues-887115210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-rodrigues-887115210/" height="30" width="40" /></a>
@@ -16,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguellrodrigues&show_icons=true&locale=en&layout=compact" alt="miguellrodrigues" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguellrodrigues&show_icons=true&locale=en" alt="miguellrodrigues" /></p>
+
+<p>https://www.youtube.com/@theengenheiro9917</p>
