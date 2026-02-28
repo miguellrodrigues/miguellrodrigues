@@ -59,6 +59,16 @@ These are open-source libraries built to consolidate and apply knowledge from di
 - Fixed, hinged, and roller supports with automatic compatibility equations
 - Fully symbolic — substitute numerical values at any stage
 
+### [prometheus](https://github.com/miguellrodrigues/prometheus)
+> ESP32 closed-loop temperature controller with MQTT telemetry — developed in collaboration with UFMG's GREA research group.
+
+- 2nd-order IIR pre-filter + discrete PID with anti-windup and output saturation
+- Auto-transitions from open-loop warm-up to closed-loop when near setpoint
+- DS18B20 1-Wire sensing, MCPWM actuation at ~1.2 kHz
+- MQTT telemetry with remote setpoint and config updates (no reflashing needed)
+- Dual-core FreeRTOS — control loop on core 0, MQTT on core 1
+- Persistent configuration via SPIFFS filesystem
+
 ### [fpwm-signal-generator](https://github.com/miguellrodrigues/trabalho_sistemas_digitais)
 > Function generator implemented on ESP32, applying digital systems and power electronics concepts.
 
