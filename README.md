@@ -8,12 +8,11 @@ Digimet Solutions · CEFET-MG · Divinópolis, Brazil
 I build AI-based inspection systems for industrial environments — keypoint detection, image segmentation, and cloud inference pipelines. My work bridges applied industry problems with control theory research, particularly in event-triggered control and LPV systems.
 
 ```python
-focus = [
-    "keypoint detection (sub-pixel accuracy)",
-    "hybrid CNN-Transformer architectures",
-    "event-triggered & LPV control systems",
-    "cloud inference optimization",
-]
+me = {
+    "work":       ["keypoint detection", "CNN-Transformer architectures", "cloud inference optimization"],
+    "research":   ["event-triggered control", "LPV systems", "robust control"],
+    "other things": ["chess", "poetry", "music"],
+}
 ```
 
 ---
@@ -36,6 +35,8 @@ focus = [
 
 **projects**
 
+These are open-source libraries built to consolidate and apply knowledge from different areas of my academic journey — robotics, structural mechanics, and control theory. Each one started as a need to go beyond what existing tools offered, turning theoretical foundations into reusable, well-structured code.
+
 ### [robotic_tools](https://github.com/miguellrodrigues/robotic_tools)
 > Python library for symbolic and numerical robot analysis using Denavit-Hartenberg parameters.
 
@@ -44,6 +45,15 @@ focus = [
 - Jacobian computation and inverse velocity kinematics
 - Gradient descent and evolutionary IK solvers
 - Works with any serial manipulator — just plug in the DH table
+
+### [beam_tools](https://github.com/miguellrodrigues/beam_tools)
+> Symbolic Euler–Bernoulli beam analysis using Macaulay singularity functions and SymPy.
+
+- Closed-form expressions for shear force, bending moment, slope, and deflection
+- Supports statically determinate and indeterminate (hyperstatic) beams
+- Point loads, uniform/triangular distributed loads, applied moments
+- Fixed, hinged, and roller supports with automatic compatibility equations
+- Fully symbolic — substitute numerical values at any stage
 
 ---
 
