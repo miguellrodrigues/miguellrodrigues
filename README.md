@@ -31,6 +31,10 @@ me = {
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**embedded**  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
 ---
 
 **projects**
@@ -54,6 +58,15 @@ These are open-source libraries built to consolidate and apply knowledge from di
 - Point loads, uniform/triangular distributed loads, applied moments
 - Fixed, hinged, and roller supports with automatic compatibility equations
 - Fully symbolic — substitute numerical values at any stage
+
+### [fpwm-signal-generator](https://github.com/miguellrodrigues/trabalho_sistemas_digitais)
+> Function generator implemented on ESP32, applying digital systems and power electronics concepts.
+
+- Generates sine, sawtooth, triangle, and square waveforms via PWM and hardware timers
+- Frequency error below 1% across the tested range
+- Physical interface with buttons and 16x2 LCD display
+- Built on a custom development board (Prometheus) designed by the author
+- Firmware written in C using ESP-IDF
 
 ---
 
